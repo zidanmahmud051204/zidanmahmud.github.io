@@ -1,0 +1,51 @@
+/* NAVBAR */
+.navbar .navbar-brand {
+  font-family: 'sacramento';
+  font-weight: bold;
+}
+
+/* JUMBOTRON */
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+.jumbotron h1 {
+  font-family: 'Pacifico';
+}
+.jumbotron {
+  margin-bottom: 100px;
+}
+.jumbotron p {
+  font-family: 'Mooli';
+}
+.jumbotron img {
+  margin-top: 4rem;
+}
+/* TENTANG SAYA */
+.about p {
+  font-family: 'Mooli';
+}
+/* GALLERY */
+#gallery {
+  background-color: #e2edff;
+}
+.gallery .card-text {
+  font-family: 'Mooli';
+}
+/* KONTAK */
+.about h2,
+.gallery h2,
+.kontak h2 {
+  font-family: 'sacramento';
+  font-size: 4rem;
+}
+.kontak label {
+  font-weight: bold;
+}
+#kontak {
+  margin-top: -90px;
+}
+/* SECTION */
+section {
+  padding-top: 5rem;
+}
