@@ -1,3 +1,7 @@
+body {
+  margin: 0px, 0px;
+  padding: 0px, 0px;
+}
 /* NAVBAR */
 .navbar .navbar-brand {
   font-family: 'sacramento';
